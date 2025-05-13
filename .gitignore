@@ -1,2 +1,8 @@
 # Omite carpetas 
 docs/*
+
+# Omitir environment
+env_ds_finance
+
+# Omitir README 
+README.md
