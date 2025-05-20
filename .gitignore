@@ -6,3 +6,10 @@ env_ds_finance
 
 # Omitir README 
 README.md
+
+# Archivos 
+clase_03/*.{sh, csv, gnuplot}
+clase_04
+
+# Tareas
+hws/*
