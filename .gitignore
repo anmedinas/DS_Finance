@@ -8,8 +8,12 @@ env_ds_finance
 README.md
 
 # Archivos 
-clase_03/*.{sh, csv, gnuplot}
 clase_04
 
 # Tareas
 hws/*
+
+# Archivos 
+*.gnuplot
+*.sh
+*.csv
