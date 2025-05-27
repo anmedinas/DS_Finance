@@ -14,3 +14,7 @@ hws/*
 *.gnuplot
 *.sh
 *.csv
+
+# Carpetas
+clase_06
+notes
