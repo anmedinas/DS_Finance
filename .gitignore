@@ -1,5 +1,8 @@
 # Omite carpetas 
 docs/*
+clase_06/*.py
+clase_06/*.png
+
 
 # Omitir environment
 env_ds_finance
@@ -18,6 +21,7 @@ hws/*
 # Carpetas
 clase_10
 notes
+merton
 
 # repos
 repos
