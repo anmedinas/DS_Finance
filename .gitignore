@@ -4,9 +4,7 @@ clase_06/*.py
 
 # Omitir environment
 env_ds_finance
-
-# Omitir README 
-README.md
+env_arima
 
 # Tareas
 hws/*
@@ -15,11 +13,16 @@ hws/*
 *.gnuplot
 *.sh
 *.csv
+README.md
 
 # Carpetas
 clase_10
 notes
 merton
+clase_07/__pycache__/
 
 # repos
 repos
+
+# omitir pass y username
+clase_07/config.py
