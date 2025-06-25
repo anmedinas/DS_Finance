@@ -31,7 +31,7 @@ Objetivos Específicos
 | 1      | Introducción a la Ciencia de Datos              | [slides](https://drive.google.com/file/d/1JJcJvxCFn_2SJm_PAoU5J-xFJmvSuaEc/view?usp=sharing), [clase_02](./clase_02/fundamentos.ipynb)                          |
 | 2      | Análisis Estadístico Aplicado (Parte 1 y 2) | [clase_03](./clase_03/yfinance_data.ipynb), [clase_04](./clase_04/returns.ipynb)                          |
 | 3      | Probabilidad y Distribuciones Aplicadas (Parte 1 y 2)        | [clase_05](./clase_05/statistics.ipynb), [clase_06](./clase_06/regression.ipynb)                         |
-| 4      | Series de Tiempo y modelos predictivos (Parte 1 y 2)         | [clase_07](./clase_05/time_series.ipynb)                          |
+| 4      | Series de Tiempo y modelos predictivos (Parte 1 y 2)         | [clase_07](./clase_07/time_series.ipynb)                          |
 | 5      | Introducción a Machine Learning en Finanzas (Parte 1 y 2)   | $\textsf{En desarrollo}$                       |
 | 6      | Optimización de Portafolios en Finanzas (Parte 1 y 2)                  | $\textsf{En desarrollo}$                      |
 | 7      | Técnicas Avanzadas de Machine Learning (Parte 1 y 2)          | $\textsf{En desarrollo}$                           |
