@@ -33,7 +33,7 @@ Objetivos Específicos
 | 3      | Probabilidad y Distribuciones Aplicadas (Parte 1 y 2)        | [clase_05](./clase_05/statistics.ipynb), [clase_06](./clase_06/regression.ipynb)                         |
 | 4      | Series de Tiempo y modelos predictivos (Parte 1 y 2)         | [clase_07](./clase_07/time_series.ipynb), [clase_08](./clase_08/garch_models.ipynb)                      |
 | 5      | Introducción a Machine Learning en Finanzas (Parte 1 y 2)   | [clase_09](./clase_09), [clase_10](./clase_10/supervised_models.ipynb)                     |
-| 6      | Optimización de Portafolios en Finanzas (Parte 1 y 2)                  | $\textsf{En desarrollo}$                      |
+| 6      | Optimización de Portafolios en Finanzas (Parte 1 y 2)                  | [clase_11](./clase_11/portfolio_optimization.ipynb), [clase_12](./clase_12/value_at_risk.ipynb)                          |
 | 7      | Técnicas Avanzadas de Machine Learning (Parte 1 y 2)          | $\textsf{En desarrollo}$                           |
 | 8      | Ética y Ciencia de Datos  (Parte 1 y 2) | $\textsf{En desarrollo}$                          |
 
