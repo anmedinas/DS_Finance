@@ -27,3 +27,6 @@ repos
 
 # omitir pass y username
 clase_07/config.py
+
+# Omite versiones anteriores del curso
+2025
