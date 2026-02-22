@@ -28,13 +28,13 @@ Objetivos Específicos
 
 | Unidad | Título                                                 | Material
 |--------|---------------------------------------------------------------|-------------------------------------------------|
-| 1      | Introducción a la Ciencia de Datos              | [slides](https://drive.google.com/file/d/1JJcJvxCFn_2SJm_PAoU5J-xFJmvSuaEc/view?usp=sharing), [clase_02](./clase_02/fundamentos.ipynb)                          |
-| 2      | Análisis Estadístico Aplicado (Parte 1 y 2) | [clase_03](./clase_03/yfinance_data.ipynb), [clase_04](./clase_04/returns.ipynb)                          |
-| 3      | Probabilidad y Distribuciones Aplicadas (Parte 1 y 2)        | [clase_05](./clase_05/statistics.ipynb), [clase_06](./clase_06/regression.ipynb)                         |
-| 4      | Series de Tiempo y modelos predictivos (Parte 1 y 2)         | [clase_07](./clase_07/time_series.ipynb), [clase_08](./clase_08/garch_models.ipynb)                      |
-| 5      | Introducción a Machine Learning en Finanzas (Parte 1 y 2)   | [clase_09](./clase_09), [clase_10](./clase_10/supervised_models.ipynb)                     |
-| 6      | Optimización de Portafolios en Finanzas (Parte 1 y 2)                  | [clase_11](./clase_11/Portfolio_Optimization.ipynb), [clase_12](./clase_12/value_at_risk.ipynb)                          |
-| 7      | Técnicas Avanzadas de Machine Learning          | [clase_13](./clase_13/mlp.ipynb)                          |
+| 1      | Introducción a la Ciencia de Datos    | xxx
+| 2      | Análisis Estadístico Aplicado (Parte 1 y 2) | xxx |
+| 3      | Probabilidad y Distribuciones Aplicadas (Parte 1 y 2) | xxx |
+| 4      | Series de Tiempo y modelos predictivos (Parte 1 y 2)  | xxx |
+| 5      | Introducción a Machine Learning en Finanzas (Parte 1 y 2)  | xxx |
+| 6      | Optimización de Portafolios en Finanzas (Parte 1 y 2)   | xxx |
+| 7      | Técnicas Avanzadas de Machine Learning  | xxx |
 
 ## 🖥️ Setup 
 
