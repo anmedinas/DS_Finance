@@ -26,15 +26,21 @@ Objetivos Específicos
 ## 🎖️ Contenidos
 
 
-| Unidad | Título                                                 | Material
+| Sesiones | Título                                                 | Material
 |--------|---------------------------------------------------------------|-------------------------------------------------|
-| 1      | Introducción a la Ciencia de Datos    | xxx
-| 2      | Análisis Estadístico Aplicado (Parte 1 y 2) | xxx |
-| 3      | Probabilidad y Distribuciones Aplicadas (Parte 1 y 2) | xxx |
-| 4      | Series de Tiempo y modelos predictivos (Parte 1 y 2)  | xxx |
-| 5      | Introducción a Machine Learning en Finanzas (Parte 1 y 2)  | xxx |
-| 6      | Optimización de Portafolios en Finanzas (Parte 1 y 2)   | xxx |
-| 7      | Técnicas Avanzadas de Machine Learning  | xxx |
+| 1      | Data Science en Finanzas: Kickoff     | xxx
+| 2      | Bootcamp Python I| xxx |
+| 3      | Bootcamp Python II | xxx |
+| 4      | Git Workflow | xxx |
+| 5      | Análisis Estadístico Aplicado | xxx |
+| 6      | Probabilidad y Distribuciones Aplicadas  | xxx |
+| 7      | Análisis Exploratorio de Datos (EDA)  | xxx |
+| 8      | Análisis de Regresión Aplicado (Lineal) | xxx |
+| 9      | Análisis de Regresión Aplicado (Múltiple)  | xxx |
+| 10     | Análisis de Regresión Aplicado (Clasificación)  | xxx |
+| 11     | Series de Tiempo Financieras  | xxx |
+| 12     | Simulación de Monte Carlo  | xxx |
+| 13     | Portfolio Optimization  | xxx |
 
 ## 🖥️ Setup 
 
