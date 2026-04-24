@@ -27,19 +27,18 @@ Objetivos Específicos
 
 | Sesiones | Título                                                 | Material
 |--------|---------------------------------------------------------------|-------------------------------------------------|
-| 1      | Data Science en Finanzas: Kickoff     | xxx
+| 1      | Data Science en Finanzas: Kickoff | [Ver notebook](clase_01/clase_01.ipynb)
 | 2      | Bootcamp Python I| En curso |
 | 3      | Bootcamp Python II | En curso |
-| 4      | GitHub y Estructura de Proyectos DS/ML | En curso |
-| 5      | Análisis Estadístico Aplicado | En curso |
-| 6      | Probabilidad y Distribuciones Aplicadas  | En curso |
-| 7      | Análisis Exploratorio de Datos (EDA)  | En curso |
-| 8      | Análisis de Regresión Aplicado (Lineal) | En curso |
-| 9      | Análisis de Regresión Aplicado (Múltiple)  | En curso |
-| 10     | Análisis de Regresión Aplicado (Clasificación)  | En curso |
-| 11     | Series de Tiempo Financieras  | En curso |
-| 12     | Simulación de Monte Carlo  | En curso |
-| 13     | Portfolio Optimization  | En curso |
+| 4      | Análisis Estadístico Aplicado | En curso |
+| 5      | Probabilidad y Distribuciones Aplicadas  | En curso |
+| 6      | Análisis Exploratorio de Datos (EDA)  | En curso |
+| 7      | Análisis de Regresión Aplicado (Lineal) | En curso |
+| 8      | Análisis de Regresión Aplicado (Múltiple)  | En curso |
+| 9     | Análisis de Regresión Aplicado (Clasificación)  | En curso |
+| 10     | Series de Tiempo Financieras  | En curso |
+| 11     | Simulación de Monte Carlo  | En curso |
+| 12     | Portfolio Optimization  | En curso |
 
 ## 🖥️ Setup 
 
