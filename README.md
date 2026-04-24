@@ -1,6 +1,5 @@
 # Data Science Aplicado a las Finanzas 
 
-
 ## 📚 Descripción del curso 
 
 Este curso tiene como objetivo introducir y profundizar en el uso de herramientas de ciencia de datos aplicadas a problemas financieros reales. A través de una combinación de teoría, casos reales y programación en Python, los participantes aprenderán a analizar datos financieros, construir modelos predictivos, aplicar métodos de optimización de portafolios y tomar decisiones basadas en evidencia cuantitativa.
