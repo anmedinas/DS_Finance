@@ -28,9 +28,9 @@ Objetivos Específicos
 | Sesiones | Título                                                 | Material
 |--------|---------------------------------------------------------------|-------------------------------------------------|
 | 1      | Data Science en Finanzas: Kickoff | [Ver notebook](clase_01/clase_01.ipynb)
-| 2      | Bootcamp Python I| [Ver notebook 1](clase_02/fundamentos.ipynb), [Ver notebook 2](clase_02/pandas.ipynb), [Ver notebook 3](clase_02/scipy_statsmodels.ipynb) |
-| 3      | Bootcamp Python II | En curso |
-| 4      | Análisis Estadístico Aplicado | En curso |
+| 2      | Bootcamp Python I| [Ver notebook 1](clase_02/fundamentos.ipynb), [Ver notebook 2](clase_02/pandas.ipynb) |
+| 3      | Bootcamp Python II | [Ver notebook 3](clase_02/scipy_statsmodels.ipynb) |
+| 4      | Análisis Estadístico Aplicado | [Ver notebook](clase_03/yfinance_data.ipynb) |
 | 5      | Probabilidad y Distribuciones Aplicadas  | En curso |
 | 6      | Análisis Exploratorio de Datos (EDA)  | En curso |
 | 7      | Análisis de Regresión Aplicado (Lineal) | En curso |
