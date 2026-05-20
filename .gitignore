@@ -7,7 +7,11 @@ env_ds_finance
 env_arima
 
 # Tareas
-hws/*
+hws/hw02.ipynb
+hws/hw03.ipynb
+hws/hw04.ipynb 
+hws/hw05.ipynb 
+hws/creditSIM.xlsx
 
 # Archivos 
 *.gnuplot
