@@ -1,6 +1,7 @@
 # Omite carpetas 
 docs/*
 clase_06/*.py
+*.zip
 
 # Omitir environment
 env_ds_finance
@@ -33,7 +34,6 @@ repos
 clase_07/config.py
 
 # Omite versiones anteriores de las clases
-clase_06 
 clase_07 
 clase_08 
 clase_09 
