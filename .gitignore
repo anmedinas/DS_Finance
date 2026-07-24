@@ -9,7 +9,7 @@ env_ds_finance
 env_arima
 
 # Tareas
-hws/hw08.ipynb 
+
 
 # Archivos 
 *.gnuplot
@@ -31,4 +31,4 @@ repos
 clase_07/config.py
 
 # Omite versiones anteriores de las clases
-clase_13 
+
